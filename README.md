@@ -9,3 +9,7 @@
 ---
 
 ![Partho's github stats](https://github-readme-stats.vercel.app/api?username=ParthoKR)
+
+---
+
+![](https://komarev.com/ghpvc/?username=ParthoKR&color=blue)
