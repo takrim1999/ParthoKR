@@ -8,9 +8,7 @@
 - ⚡ Fun fact: Nothing except being introvert
 ---
 
-![Partho's github stats](https://github-readme-stats.vercel.app/api?username=ParthoKR?count_private=true&show_icons=true)
-
----
+![Partho's github stats](https://github-readme-stats.vercel.app/api?username=ParthoKR&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthoKR)](https://github.com/ParthoKR/github-readme-stats)
 ---
 ![](https://komarev.com/ghpvc/?username=ParthoKR&color=blue)
