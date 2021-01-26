@@ -9,6 +9,6 @@
 ---
 
 ![Partho's github stats](https://github-readme-stats.vercel.app/api?username=ParthoKR&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthoKR)](https://github.com/ParthoKR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthoKR&layout=compact)](https://github.com/ParthoKR)
 ---
 ![](https://komarev.com/ghpvc/?username=ParthoKR&color=blue)
